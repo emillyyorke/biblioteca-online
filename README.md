@@ -30,29 +30,31 @@ Um sistema completo para gerenciamento de acervo de livros com API GraphQL e int
 
 ## 📦 Como rodar localmente
 
-1.Pré-requisitos
+1. Pré-requisitos
 ✅ Tenha instalado:
 
-Node.js (v18 ou superior)
+  Node.js (v18 ou superior)
 
-MongoDB (local ou Atlas)
+  MongoDB (local ou Atlas)
 
-Navegador moderno (Chrome, Firefox, Edge)
+  Navegador moderno (Chrome, Firefox, Edge)
 
 2. Clone o repositório
 
-git clone https://github.com/seu-usuario/biblioteca-online.git
+  git clone https://github.com/seu-usuario/biblioteca-online.git
 
-cd biblioteca-online
+  cd biblioteca-online
 
 3. Configurar as dependências
-npm init -y
 
+  npm init -y
 
-npm install express apollo-server-express graphql mongoose cors
+  npm install express apollo-server-express graphql mongoose cors
 
 5. Inicie o servidor
-node server.js
 
-6. Acesse o frontend
-Abra o arquivo frontend/index.html diretamente no navegador
+  node server.js
+
+7. Acesse o frontend
+
+  Abra o arquivo frontend/index.html diretamente no navegador
