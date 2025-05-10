@@ -42,7 +42,7 @@ Navegador moderno (Chrome, Firefox, Edge)
 2. Clone o repositório
 
 git clone https://github.com/seu-usuario/biblioteca-online.git
-cd biblioteca-online
+\ncd biblioteca-online
 
 3. Configurar as dependências
 npm init -y
