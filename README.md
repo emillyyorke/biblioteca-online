@@ -42,14 +42,17 @@ Navegador moderno (Chrome, Firefox, Edge)
 2. Clone o repositório
 
 git clone https://github.com/seu-usuario/biblioteca-online.git
-\ncd biblioteca-online
+
+cd biblioteca-online
 
 3. Configurar as dependências
 npm init -y
+
+
 npm install express apollo-server-express graphql mongoose cors
 
-4. Inicie o servidor
+5. Inicie o servidor
 node server.js
 
-5. Acesse o frontend
+6. Acesse o frontend
 Abra o arquivo frontend/index.html diretamente no navegador
