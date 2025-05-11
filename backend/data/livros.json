@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1746922206685",
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": " J.K. Rowling",
+    "anoPublicacao": 1997,
+    "genero": "Fantasia",
+    "disponivel": true,
+    "dataCadastro": "2025-05-11T00:10:06.685Z"
+  },
+  {
+    "id": "1746922794445",
+    "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+    "autor": "J.R.R. Tolkien",
+    "anoPublicacao": 1954,
+    "genero": "Fantasia Épica",
+    "disponivel": true,
+    "dataCadastro": "2025-05-11T00:19:54.445Z"
+  },
+  {
+    "id": "1747003747044",
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "anoPublicacao": 0,
+    "genero": "",
+    "disponivel": true,
+    "dataCadastro": "2025-05-11T22:49:07.044Z"
+  }
+]
